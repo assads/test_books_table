@@ -2,7 +2,7 @@
 компонент, выводящий из инфоблока данные позволяющий удалять их через ajax<br><br>
 
 &lt;? $APPLICATION->IncludeComponent(<br>
-&emsp;"mv:books",<br>
+&emsp;"___:books",<br>
 &emsp;".default",<br>
 &emsp;array(<br>
 &emsp;&emsp;"IBLOCK_TYPE" => "news",<br>
